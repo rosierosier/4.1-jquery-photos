@@ -1,3 +1,11 @@
+.bold {
+  font-weight: bold; }
 
+.underline {
+  text-decoration: underline; }
+
+.album-tile {
+  display: inline-block;
+  margin: 30px; }
 
 /*# sourceMappingURL=main.css.map */
